@@ -10,9 +10,9 @@
 ### Instructions
 
 1) create a workspace
-$ mkdir -p ~/catkin_ws/src
-$ cd ~/catkin_ws/src
-$ catkin_init_workspace
+$ mkdir -p ~/catkin_ws/src <br />
+$ cd ~/catkin_ws/src <br />
+$ catkin_init_workspace <br />
 $ cd ..
 $ catkin_make
    
