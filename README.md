@@ -16,7 +16,7 @@ $ catkin_init_workspace <br />
 $ cd .. <br />
 $ catkin_make <br />
    
-2) Clone the project to catkin_ws/src
+2) Clone the project <br />
 $ cd ~/catkin_ws/src <br />
 $ git clone https://github.com/rvipin17/robo.git <br />
 $ cd .. <br />
