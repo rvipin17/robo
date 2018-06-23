@@ -10,14 +10,14 @@
 ### Instructions
 
 1) create a workspace
-   $ mkdir -p ~/catkin_ws/src
-   $ cd ~/catkin_ws/src
-   $ catkin_init_workspace
-   $ cd ..
-   $ catkin_make
+   *$ mkdir -p ~/catkin_ws/src
+   *$ cd ~/catkin_ws/src
+   *$ catkin_init_workspace
+   *$ cd ..
+   *$ catkin_make
    
 2) Clone the project to catkin_ws/src
-   $ cd ~/catkin_ws/src
-   $ git clone https://github.com/rvipin17/robo.git
-   $ cd ..
-   $ catkin_make
+   *$ cd ~/catkin_ws/src
+   *$ git clone https://github.com/rvipin17/robo.git
+   *$ cd ..
+   *$ catkin_make
