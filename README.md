@@ -5,7 +5,10 @@
 ### Prerequisites
 
 1) Install ROS Kinetic with ubuntu 16.04.
-2) Install Python, pip, and Scipy.
+2) Install Python, pip, and Scipy. <br />
+
+$ sudo apt-get install python-scipy <br />
+$ pip install scipy <br />
 
 ### Instructions
 
